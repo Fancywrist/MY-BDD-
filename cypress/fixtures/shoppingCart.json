@@ -1,0 +1,15 @@
+{
+    "cauliFlower": ".product:nth-of-type(2)>.product-action > button",
+    "tomato": ":nth-child(6) > .product-action > button",
+    "cartIcon": ".cart > .cart-icon",
+    "shoppingCart": "ul.cart-items",
+    "checkoutBtn": ".action-block > button",
+    "checkOut": "PROCEED TO CHECKOUT",
+    "cartButton": ":nth-child(14)",
+    "agreeBtn": ".chkAgree",
+    "proceedBtn": ".wrapperTwo > button",
+    "selectCountry": "select",
+    "country": "Nigeria",
+    "messageBanner": ".wrapperTwo",
+    "successMessage": "You'll be redirected to Home page shortly"
+}
